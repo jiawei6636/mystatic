@@ -1,4 +1,4 @@
-# My static file.
+# My Static File
 My repository to store the static file.
 
 # How to use these static file.
